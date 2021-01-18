@@ -4,7 +4,7 @@
 
 여기에서는 PE 파일의 리소스 섹션에서 Feature를 추출해 csv로 저장하는 코드와
 
-Pefile, Ember, Yara로 추출한 Featrue를 학습하는 모델 코드를 제공하고 있습니다.
+Pefile, Ember, Yara로 추출한 Featrue CSV를 학습하는 모델 코드를 제공하고 있습니다.
 
 데이터셋은 KISA에서 공유하는 정보보호 R&D 데이터셋을 사용하였으며, 
 
